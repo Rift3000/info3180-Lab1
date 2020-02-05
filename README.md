@@ -1,3 +1,1 @@
-# info3180-Lab1
-
-Let the lab begin
+# INFO3180 Lab 1 Starter Code
